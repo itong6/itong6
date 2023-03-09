@@ -29,13 +29,13 @@
 </div>
 
   <br><br>
-
+![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=itong6&count_private=true&show_icons=true&theme=nord)
 <h2>🤫 Shhhhh don't wake up Mew 😴 </h2> <img src='mew2.gif' width="100"/>
 
 
 
 <!--
-**MonikaSzucs/MonikaSzucs** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -49,6 +49,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- # Heading 1
-
-[video test](https://www.youtube.com/watch?v=uSvAvCE9ztc) -->
