@@ -30,6 +30,7 @@
 
   <br><br>
 ![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=itong6&count_private=true&show_icons=true&theme=nord)
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itong6&layout=compact&langs_count=8&theme=nord"/>
 <h2>🤫 Shhhhh don't wake up Mew 😴 </h2> <img src='mew2.gif' width="100"/>
 
 
