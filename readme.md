@@ -4,7 +4,7 @@
 - 💻 A designer with front-end knowledge.
 - 📚 Current student at BCIT.
 - 🌧️ Enjoys rainy days.
-- ⚡ Fun fact: A group of crows are called a murder. 
+- ⚡ Fun fact: A group of crows is called a murder. 
 <br><br>
 <h2>My Pokemon Team  🎮</h2>
 <div>
